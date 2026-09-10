@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100),Cluster,Segment
+1,Female,40,52.4,52,4,Average Income - Average Spending
+2,Male,21,57.599999999999994,99,3,Low Income - High Spending (Impulsive)
+3,Male,20,31.5,95,3,Low Income - High Spending (Impulsive)
+4,Female,28,21.9,83,3,Low Income - High Spending (Impulsive)
+5,Male,44,78.5,2,2,High Income - Low Spending (Careful)
+6,Female,27,16.8,78,3,Low Income - High Spending (Impulsive)
+7,Male,35,129.7,91,0,High Income - High Spending (Target)
+8,Male,35,49.5,45,4,Average Income - Average Spending
+9,Male,44,33.5,13,1,Low Income - Low Spending (Budget)
+10,Female,51,35.5,1,1,Low Income - Low Spending (Budget)
+11,Female,41,58.4,40,4,Average Income - Average Spending
+12,Female,42,42.4,52,4,Average Income - Average Spending
+13,Male,37,78.2,97,0,High Income - High Spending (Target)
+14,Male,59,27.8,7,1,Low Income - Low Spending (Budget)
+15,Male,58,131.6,24,2,High Income - Low Spending (Careful)
+16,Female,25,81.3,73,0,High Income - High Spending (Target)
+17,Male,23,18.4,80,3,Low Income - High Spending (Impulsive)
+18,Female,42,41.7,47,4,Average Income - Average Spending
+19,Female,30,57.599999999999994,79,3,Low Income - High Spending (Impulsive)
+20,Male,42,24.7,15,1,Low Income - Low Spending (Budget)
+21,Female,65,111.2,32,2,High Income - Low Spending (Careful)
+22,Male,42,95.8,83,0,High Income - High Spending (Target)
+23,Female,41,111.6,76,0,High Income - High Spending (Target)
+24,Female,43,33.8,28,1,Low Income - Low Spending (Budget)
+25,Male,44,126.3,30,2,High Income - Low Spending (Careful)
+26,Female,67,101.2,11,2,High Income - Low Spending (Careful)
+27,Female,31,54.0,56,4,Average Income - Average Spending
+28,Female,48,113.9,33,2,High Income - Low Spending (Careful)
+29,Female,25,41.8,56,4,Average Income - Average Spending
+30,Female,65,121.7,28,2,High Income - Low Spending (Careful)
+31,Female,36,25.5,5,1,Low Income - Low Spending (Budget)
+32,Male,46,56.7,42,4,Average Income - Average Spending
+33,Male,56,127.1,22,2,High Income - Low Spending (Careful)
+34,Male,35,65.0,44,4,Average Income - Average Spending
+35,Male,43,106.0,77,0,High Income - High Spending (Target)
+36,Female,47,57.599999999999994,47,4,Average Income - Average Spending
+37,Male,44,81.3,99,0,High Income - High Spending (Target)
+38,Female,45,83.1,27,2,High Income - Low Spending (Careful)
+39,Female,25,49.5,57,4,Average Income - Average Spending
+40,Male,31,43.8,56,4,Average Income - Average Spending
+41,Male,33,90.7,83,0,High Income - High Spending (Target)
+42,Female,31,96.7,86,0,High Income - High Spending (Target)
+43,Male,38,39.0,29,1,Low Income - Low Spending (Budget)
+44,Female,43,88.7,89,0,High Income - High Spending (Target)
+45,Male,30,17.8,93,3,Low Income - High Spending (Impulsive)
+46,Female,46,20.5,16,1,Low Income - Low Spending (Budget)
+47,Female,58,23.6,21,1,Low Income - Low Spending (Budget)
+48,Male,63,118.4,14,2,High Income - Low Spending (Careful)
+49,Female,25,18.7,89,3,Low Income - High Spending (Impulsive)
+50,Female,42,120.6,98,0,High Income - High Spending (Target)
+51,Female,29,23.9,94,3,Low Income - High Spending (Impulsive)
+52,Female,21,28.7,79,3,Low Income - High Spending (Impulsive)
+53,Female,33,59.9,46,4,Average Income - Average Spending
+54,Female,47,24.3,20,1,Low Income - Low Spending (Budget)
+55,Female,24,99.5,99,0,High Income - High Spending (Target)
+56,Female,22,31.9,94,3,Low Income - High Spending (Impulsive)
+57,Female,31,26.0,93,3,Low Income - High Spending (Impulsive)
+58,Female,20,133.8,94,0,High Income - High Spending (Target)
+59,Male,24,139.5,78,0,High Income - High Spending (Target)
+60,Male,41,47.5,55,4,Average Income - Average Spending
+61,Female,47,46.3,52,4,Average Income - Average Spending
+62,Female,44,31.3,15,1,Low Income - Low Spending (Budget)
+63,Male,47,72.0,43,4,Average Income - Average Spending
+64,Male,20,109.2,81,0,High Income - High Spending (Target)
+65,Female,29,57.599999999999994,87,3,Low Income - High Spending (Impulsive)
+66,Female,52,92.1,20,2,High Income - Low Spending (Careful)
+67,Male,63,138.4,3,2,High Income - Low Spending (Careful)
+68,Female,38,39.4,16,1,Low Income - Low Spending (Budget)
+69,Male,66,137.1,14,2,High Income - Low Spending (Careful)
+70,Female,28,114.3,80,0,High Income - High Spending (Target)
+71,Male,36,58.1,54,4,Average Income - Average Spending
+72,Female,41,57.9,55,4,Average Income - Average Spending
+73,Male,35,74.7,53,4,Average Income - Average Spending
+74,Female,21,35.3,87,3,Low Income - High Spending (Impulsive)
+75,Male,20,101.1,85,0,High Income - High Spending (Target)
+76,Female,53,70.5,54,4,Average Income - Average Spending
+77,Male,43,56.4,40,4,Average Income - Average Spending
+78,Female,54,17.5,17,1,Low Income - Low Spending (Budget)
+79,Male,30,20.3,83,3,Low Income - High Spending (Impulsive)
+80,Male,21,21.5,82,3,Low Income - High Spending (Impulsive)
+81,Female,35,127.9,95,0,High Income - High Spending (Target)
+82,Male,67,114.5,11,2,High Income - Low Spending (Careful)
+83,Male,36,57.599999999999994,7,1,Low Income - Low Spending (Budget)
+84,Female,35,94.0,27,2,High Income - Low Spending (Careful)
+85,Male,53,35.7,7,1,Low Income - Low Spending (Budget)
+86,Female,37,19.4,16,1,Low Income - Low Spending (Budget)
+87,Male,28,28.0,96,3,Low Income - High Spending (Impulsive)
+88,Male,22,101.7,91,0,High Income - High Spending (Target)
+89,Male,43,27.2,7,1,Low Income - Low Spending (Budget)
+90,Male,47,23.5,7,1,Low Income - Low Spending (Budget)
+91,Female,36,79.3,13,2,High Income - Low Spending (Careful)
+92,Female,30,50.2,50,4,Average Income - Average Spending
+93,Male,20,20.8,86,3,Low Income - High Spending (Impulsive)
+94,Male,30,69.3,48,4,Average Income - Average Spending
+95,Female,45,98.9,26,2,High Income - Low Spending (Careful)
+96,Male,35,131.4,75,0,High Income - High Spending (Target)
+97,Female,32,33.0,8,1,Low Income - Low Spending (Budget)
+98,Male,40,127.8,22,2,High Income - Low Spending (Careful)
+99,Female,50,73.3,49,4,Average Income - Average Spending
+100,Female,27,26.2,81,3,Low Income - High Spending (Impulsive)
+101,Male,34,69.2,44,4,Average Income - Average Spending
+102,Male,54,17.3,18,1,Low Income - Low Spending (Budget)
+103,Male,34,138.0,80,0,High Income - High Spending (Target)
+104,Female,52,113.9,21,2,High Income - Low Spending (Careful)
+105,Female,23,16.0,96,3,Low Income - High Spending (Impulsive)
+106,Male,24,32.0,94,3,Low Income - High Spending (Impulsive)
+107,Female,31,15.5,90,3,Low Income - High Spending (Impulsive)
+108,Male,51,15.3,8,1,Low Income - Low Spending (Budget)
+109,Female,50,16.0,17,1,Low Income - Low Spending (Budget)
+110,Male,46,133.7,1,2,High Income - Low Spending (Careful)
+111,Male,38,49.9,54,4,Average Income - Average Spending
+112,Female,44,15.6,8,1,Low Income - Low Spending (Budget)
+113,Female,43,47.8,44,4,Average Income - Average Spending
+114,Female,68,137.7,16,2,High Income - Low Spending (Careful)
+115,Female,51,57.599999999999994,28,4,Average Income - Average Spending
+116,Male,40,86.9,93,0,High Income - High Spending (Target)
+117,Male,42,40.0,15,1,Low Income - Low Spending (Budget)
+118,Female,53,103.2,16,2,High Income - Low Spending (Careful)
+119,Female,56,29.3,23,1,Low Income - Low Spending (Budget)
+120,Female,27,37.7,75,3,Low Income - High Spending (Impulsive)
+121,Male,37,36.7,18,1,Low Income - Low Spending (Budget)
+122,Male,21,31.2,86,3,Low Income - High Spending (Impulsive)
+123,Female,21,38.0,83,3,Low Income - High Spending (Impulsive)
+124,Female,43,104.5,21,2,High Income - Low Spending (Careful)
+125,Female,27,111.2,98,0,High Income - High Spending (Target)
+126,Male,48,22.6,14,1,Low Income - Low Spending (Budget)
+127,Female,18,19.8,73,3,Low Income - High Spending (Impulsive)
+128,Male,51,53.1,55,4,Average Income - Average Spending
+129,Female,48,72.7,46,4,Average Income - Average Spending
+130,Female,39,126.8,74,0,High Income - High Spending (Target)
+131,Male,25,19.5,74,3,Low Income - High Spending (Impulsive)
+132,Female,20,27.6,88,3,Low Income - High Spending (Impulsive)
+133,Female,37,31.0,25,1,Low Income - Low Spending (Budget)
+134,Male,33,88.3,95,0,High Income - High Spending (Target)
+135,Male,52,57.3,45,4,Average Income - Average Spending
+136,Female,28,18.6,83,3,Low Income - High Spending (Impulsive)
+137,Male,68,107.2,22,2,High Income - Low Spending (Careful)
+138,Female,30,127.5,84,0,High Income - High Spending (Target)
+139,Female,59,81.7,23,2,High Income - Low Spending (Careful)
+140,Male,32,31.5,1,1,Low Income - Low Spending (Budget)
+141,Female,26,26.9,93,3,Low Income - High Spending (Impulsive)
+142,Female,39,100.1,77,0,High Income - High Spending (Target)
+143,Female,29,33.4,71,3,Low Income - High Spending (Impulsive)
+144,Female,31,88.4,82,0,High Income - High Spending (Target)
+145,Male,49,77.6,11,2,High Income - Low Spending (Careful)
+146,Male,35,131.1,24,2,High Income - Low Spending (Careful)
+147,Female,34,80.3,81,0,High Income - High Spending (Target)
+148,Female,46,79.5,23,2,High Income - Low Spending (Careful)
+149,Female,48,71.2,56,4,Average Income - Average Spending
+150,Male,23,133.1,76,0,High Income - High Spending (Target)
+151,Female,48,121.7,23,2,High Income - Low Spending (Careful)
+152,Male,54,26.9,23,1,Low Income - Low Spending (Budget)
+153,Female,23,38.5,76,3,Low Income - High Spending (Impulsive)
+154,Female,31,30.3,98,3,Low Income - High Spending (Impulsive)
+155,Female,37,113.9,4,2,High Income - Low Spending (Careful)
+156,Female,33,35.3,2,1,Low Income - Low Spending (Budget)
+157,Female,49,114.7,12,2,High Income - Low Spending (Careful)
+158,Female,35,64.1,45,4,Average Income - Average Spending
+159,Male,43,40.1,57,4,Average Income - Average Spending
+160,Male,41,135.8,95,0,High Income - High Spending (Target)
+161,Male,25,39.4,86,3,Low Income - High Spending (Impulsive)
+162,Male,51,60.5,51,4,Average Income - Average Spending
+163,Male,62,104.2,18,2,High Income - Low Spending (Careful)
+164,Male,34,61.8,53,4,Average Income - Average Spending
+165,Female,21,136.3,97,0,High Income - High Spending (Target)
+166,Female,18,16.6,78,3,Low Income - High Spending (Impulsive)
+167,Male,19,35.0,86,3,Low Income - High Spending (Impulsive)
+168,Female,47,113.0,19,2,High Income - Low Spending (Careful)
+169,Female,27,27.8,75,3,Low Income - High Spending (Impulsive)
+170,Female,49,65.9,42,4,Average Income - Average Spending
+171,Female,33,114.9,81,0,High Income - High Spending (Target)
+172,Male,40,31.8,2,1,Low Income - Low Spending (Budget)
+173,Male,42,30.2,4,1,Low Income - Low Spending (Budget)
+174,Female,56,19.1,11,1,Low Income - Low Spending (Budget)
+175,Female,30,27.2,98,3,Low Income - High Spending (Impulsive)
+176,Male,25,15.6,88,3,Low Income - High Spending (Impulsive)
+177,Female,39,18.0,27,1,Low Income - Low Spending (Budget)
+178,Female,51,27.5,23,1,Low Income - Low Spending (Budget)
+179,Female,22,57.599999999999994,83,3,Low Income - High Spending (Impulsive)
+180,Female,53,108.9,8,2,High Income - Low Spending (Careful)
+181,Female,43,106.7,86,0,High Income - High Spending (Target)
+182,Male,31,106.3,93,0,High Income - High Spending (Target)
+183,Male,52,80.1,27,2,High Income - Low Spending (Careful)
+184,Female,44,15.9,8,1,Low Income - Low Spending (Budget)
+185,Female,37,123.4,14,2,High Income - Low Spending (Careful)
+186,Female,22,117.0,97,0,High Income - High Spending (Target)
+187,Female,46,39.6,18,1,Low Income - Low Spending (Budget)
+188,Female,37,63.6,43,4,Average Income - Average Spending
+189,Female,43,62.1,58,4,Average Income - Average Spending
+190,Female,36,32.0,13,1,Low Income - Low Spending (Budget)
+191,Male,31,57.599999999999994,92,3,Low Income - High Spending (Impulsive)
+192,Female,32,91.2,81,0,High Income - High Spending (Target)
+193,Female,55,104.5,1,2,High Income - Low Spending (Careful)
+194,Male,41,50.3,53,4,Average Income - Average Spending
+195,Female,47,50.5,49,4,Average Income - Average Spending
+196,Female,44,96.1,78,0,High Income - High Spending (Target)
+197,Male,54,24.7,1,1,Low Income - Low Spending (Budget)
+198,Female,23,34.6,98,3,Low Income - High Spending (Impulsive)
+199,Female,61,127.5,1,2,High Income - Low Spending (Careful)
+200,Male,49,130.2,26,2,High Income - Low Spending (Careful)
